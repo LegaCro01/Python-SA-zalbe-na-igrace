@@ -8,10 +8,8 @@ import tkinter.font as tkFont
 
 i = 0
 j = 0
-nickname2 = str
 minutaza = 0
 window=Tk()
-count2=0
 window.title('[SA] Zalbe Na Igrace [By Lega]')
 window.geometry("450x310+10+10")
 tab_control = ttk.Notebook(window)

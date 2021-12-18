@@ -1,4 +1,4 @@
-# Python-SA-zalbe-na-igrace [Skill Arena]
+# Python-SA-zalbe-na-igrace [Skill Arena] v.1.0
 
 Kratko upustvo o koristenju navedene skripte:
  
